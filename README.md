@@ -1,5 +1,5 @@
 # Transcendence
-ft_transcendence est le dernier projet du Tronc Coommun de 42 Paris.
+ft_transcendence est le dernier projet du Tronc Commun de 42 Paris.
 Il a pour objectif de créer un site hébergeant le légendaire jeu Pong !
 
 ## Partie Obligatoire
